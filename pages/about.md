@@ -16,7 +16,7 @@ title: 关于我
 
 - bilibili&nbsp;&nbsp;&nbsp;&nbsp;: Tilapia丽鲷科
 
-- /Mew/泰拉通讯枢纽&nbsp;&nbsp;&nbsp;&nbsp;：童话注册机
+- Mew/泰拉通讯枢纽&nbsp;&nbsp;&nbsp;&nbsp;：童话注册机
 
 - 贴吧&nbsp;&nbsp;&nbsp;&nbsp;：丽鲷科-
 
