@@ -14,7 +14,9 @@ title: 关于我
 
 - QQ&nbsp;&nbsp;&nbsp;&nbsp;: 2641387454
 
-- bilibili/Mew/泰拉通讯枢纽&nbsp;&nbsp;&nbsp;&nbsp;：童话注册机
+- bilibili&nbsp;&nbsp;&nbsp;&nbsp;: Tilapia丽鲷科
+
+- /Mew/泰拉通讯枢纽&nbsp;&nbsp;&nbsp;&nbsp;：童话注册机
 
 - 贴吧&nbsp;&nbsp;&nbsp;&nbsp;：丽鲷科-
 
