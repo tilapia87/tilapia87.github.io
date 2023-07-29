@@ -4,9 +4,8 @@ title: 关于浮心
 ---
 
 
-<details> 
-    <summary>角色小传</summary>
-
+<details> <summary>角色小传</summary>
+  
     **设定**：缺乏睡眠的少女，通过随身听里的奇异音乐让自己保持精神。  
 
     **爱好**：未解之谜、边缘科学  
