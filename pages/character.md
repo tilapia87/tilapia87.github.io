@@ -12,12 +12,19 @@ title: 关于浮心
 <br>
 <b>专长</b>：资料搜集、单片机设计  
 <br>   
-<b>代表物</b>：经特殊技术改造的索尼MW-MS70D网络随身听，其中播放的音乐似乎有助于集中注意力。 
+<b>代表物</b>：经特殊技术改造的索尼MW-MS70D随身听，其中播放的音乐似乎有助于集中注意力。 
 
 </details>
 
 <details> <summary>外观设定</summary>
 
 <img src="/characters/fuxin-1.png" alt="外观设定">
+
+</details>
+
+<details> <summary>MW-MS70D细节</summary>
+ 
+
+待补充……
 
 </details>
