@@ -33,8 +33,8 @@ menu:
     url: /pages/search.html
   - title: 友链
     url: /pages/links.html
-  - title: 留言
-    url: /pages/chat.html
+#  - title: 留言
+#    url: /pages/chat.html
   - title: 角色
     url: /pages/character.html
   - title: 关于
