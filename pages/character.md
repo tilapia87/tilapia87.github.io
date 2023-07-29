@@ -14,11 +14,11 @@ title: 关于浮心
 <br>   
     <b>代表物</b>：经特殊技术改造的索尼MW-MS70D网络随身听，其中播放的音乐似乎有助于集中注意力。 
 
-
+</details>
 
 <details> <summary>外观设定</summary>
 <br> 
 
 ![](/characters/fuxin-1.png)
 
-
+</details>
