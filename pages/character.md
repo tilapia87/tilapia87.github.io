@@ -19,6 +19,6 @@ title: 关于浮心
 <details> <summary>外观设定</summary>
 <br> 
 
-![](/characters/fuxin-1.png)
+<img src="/characters/fuxin-1.png" alt="外观设定">
 
 </details>
