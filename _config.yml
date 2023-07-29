@@ -2,7 +2,7 @@ encoding: utf-8
 
 # SEO相关信息
 title: TILAPIA'S BLOG
-description: 十日焦禾的个人堆放处
+description: 焦禾的个人堆放处
 keywords: 童话注册机,Blog,tilapia丽鲷科,丽鲷科,tilapia，十日焦禾，焦禾
 author: 焦禾（tilapia）
 footerText: '这是山巅的地下室'
@@ -35,6 +35,8 @@ menu:
     url: /pages/links.html
   - title: 留言
     url: /pages/chat.html
+  - title: 角色
+    url: /pages/character.html
   - title: 关于
     url: /pages/about.html
 
@@ -57,8 +59,9 @@ extMath: false
 
 # 友情链接
 links:
+
   - title: 白夜极光情报站（微博）
     url: https://weibo.com/u/7610526816
   - title: Dr.枫子希的西游行（MEW）
     url: https://mew.fun/Y_ya/thoughts/76503623400148992
-    
+
