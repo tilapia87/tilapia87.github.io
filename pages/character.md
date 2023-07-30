@@ -20,5 +20,16 @@ title: 关于浮心
 
 
 <details> <summary>MW-MS70D细节</summary>
-待补充……
+<img src="/characters/nwms70d-1.jpg" alt="MW-MS70D">
+<img src="/characters/nwms70d-2.jpg" alt="MW-MS70D">
+<img src="/characters/nwms70d-3.jpg" alt="MW-MS70D">
+<img src="/characters/nwms70d-4.jpg" alt="MW-MS70D">
+<img src="/characters/nwms70d-5.jpg" alt="MW-MS70D">
+<img src="/characters/nwms70d-6.jpg" alt="MW-MS70D">
+<img src="/characters/nwms70d-7.jpg" alt="MW-MS70D">
+</details>
+
+<details> <summary>服饰参考</summary>
+待追加……
+<img src="/characters/fuxin-1.png" alt="外观设定">
 </details>
