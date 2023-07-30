@@ -26,7 +26,6 @@ title: 关于浮心
 <img src="/characters/nwms70d-4.jpg" alt="MW-MS70D">
 <img src="/characters/nwms70d-5.jpg" alt="MW-MS70D">
 <img src="/characters/nwms70d-6.jpg" alt="MW-MS70D">
-<img src="/characters/nwms70d-7.jpg" alt="MW-MS70D">
 </details>
 
 <details> <summary>服饰参考</summary>
