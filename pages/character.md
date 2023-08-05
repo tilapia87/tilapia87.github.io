@@ -3,6 +3,9 @@ layout: mypost
 title: 关于浮心
 ---
 
+<details><summary>捏脸参考</summary>
+<img src="/characters/nielian.jpg" alt="捏脸参考">
+</details>
 
 <details> <summary>角色小传</summary>
 <p><b>设定</b>：缺乏睡眠的少女，通过随身听里的奇异音乐让自己保持精神，对边缘科学（或常人所说的伪科学）很感兴趣，除此之外的话题一概不关心。</p>
