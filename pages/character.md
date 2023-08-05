@@ -5,7 +5,7 @@ title: 关于浮心
 
 
 <details> <summary>角色小传</summary>
-<b>设定</b>：缺乏睡眠的少女，通过随身听里的奇异音乐让自己保持精神。  
+<b>设定</b>：缺乏睡眠的少女，通过随身听里的奇异音乐让自己保持精神，对边缘科学（或常人所说的伪科学）很感兴趣，除此之外的话题一概不关心。
 <br>
 <b>爱好</b>：未解之谜、边缘科学  
 <br>
@@ -15,7 +15,7 @@ title: 关于浮心
 </details>
 
 <details> <summary>外观设定</summary>
-<img src="/characters/fuxin-1.png" alt="外观设定">
+<img src="/characters/dixin-1.png" alt="外观设定">
 </details>
 
 
@@ -29,6 +29,7 @@ title: 关于浮心
 </details>
 
 <details> <summary>服饰参考</summary>
-待追加……
-<img src="/characters/fuxin-1.png" alt="外观设定">
+<blockquote>希望服设中能融入MW-MS70D元素</blockquote>
+<blockquote>↓剪裁参考此图，下身修改为短裤</blockquote>
+<img src="/characters/cloth-1.jpg" alt="服设参考">
 </details>
