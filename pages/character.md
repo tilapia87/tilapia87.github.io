@@ -4,7 +4,7 @@ title: 关于浮心
 ---
 
 <details><summary>捏脸参考</summary>
-<img src="/characters/nielian.jpg" alt="捏脸参考">
+<img src="/characters/nielian.png" alt="捏脸参考">
 </details>
 
 <details> <summary>角色小传</summary>
