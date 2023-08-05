@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 关于浮心
+title: 关于地心
 ---
 
 <details><summary>捏脸参考</summary>
@@ -8,7 +8,7 @@ title: 关于浮心
 </details>
 
 <details> <summary>角色小传</summary>
-<p><b>设定</b>：缺乏睡眠的少女，通过随身听里的奇异音乐让自己保持精神，对边缘科学（或常人所说的伪科学）很感兴趣，除此之外的话题一概不关心。</p>
+<p><b>设定</b>：缺乏睡眠的少女，通过随身听里的奇异音乐让自己保持精神，对边缘科学（或常人所说的伪科学）十分狂热。</p>
 <br>
 <p><b>爱好</b>：未解之谜、边缘科学</p>  
 <br>
@@ -32,8 +32,6 @@ title: 关于浮心
 </details>
 
 <details> <summary>服饰参考</summary>
- <p><blockquote>希望服设中能融入MW-MS70D元素</blockquote> </p>
- <br>
  <p><blockquote>↓剪裁参考此图，下身修改为短裤</blockquote> </p>
 <img src="/characters/cloth-1.webp" alt="服设参考">
 </details>
