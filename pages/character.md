@@ -4,6 +4,7 @@ title: 关于地心
 ---
 
 <details><summary>捏脸参考</summary>
+ <p><blockquote>↓请无视捏脸图中的服装</blockquote></p>
 <img src="/characters/nielian.webp" alt="捏脸参考">
 </details>
 
@@ -29,6 +30,6 @@ title: 关于地心
 </details>
 
 <details> <summary>服饰参考</summary>
- <p><blockquote>↓剪裁参考此图，下身修改为短裤</blockquote> </p>
+ <p><blockquote>↓剪裁参考此图，下身修改为短裤</blockquote></p>
 <img src="/characters/cloth-1.webp" alt="服设参考">
 </details>
