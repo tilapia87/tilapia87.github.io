@@ -29,7 +29,7 @@ title: 关于浮心
 </details>
 
 <details> <summary>服饰参考</summary>
-<blockquote>希望服设中能融入MW-MS70D元素</blockquote>
-<blockquote>↓剪裁参考此图，下身修改为短裤</blockquote>
+ <p><blockquote>希望服设中能融入MW-MS70D元素</blockquote> </p>
+ <p><blockquote>↓剪裁参考此图，下身修改为短裤</blockquote> </p>
 <img src="/characters/cloth-1.jpg" alt="服设参考">
 </details>
