@@ -30,6 +30,7 @@ title: 关于地心
 </details>
 
 <details> <summary>服饰参考</summary>
+ <p><blockquote>服装风格为<b>现代/机能</b></blockquote></p>
  <p><blockquote>↓剪裁参考此图，下身修改为短裤</blockquote></p>
 <img src="/characters/cloth-1.webp" alt="服设参考">
 </details>
