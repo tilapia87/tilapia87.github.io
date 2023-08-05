@@ -4,7 +4,7 @@ title: 关于浮心
 ---
 
 <details><summary>捏脸参考</summary>
-<img src="/characters/nielian.png" alt="捏脸参考">
+<img src="/characters/nielian.webp" alt="捏脸参考">
 </details>
 
 <details> <summary>角色小传</summary>
@@ -18,22 +18,22 @@ title: 关于浮心
 </details>
 
 <details> <summary>外观设定</summary>
-<img src="/characters/dixin-1.png" alt="外观设定">
+<img src="/characters/dixin-1.webp" alt="外观设定">
 </details>
 
 
 <details> <summary>MW-MS70D细节</summary>
-<img src="/characters/nwms70d-1.jpg" alt="MW-MS70D">
-<img src="/characters/nwms70d-2.jpg" alt="MW-MS70D">
-<img src="/characters/nwms70d-3.jpg" alt="MW-MS70D">
-<img src="/characters/nwms70d-4.jpg" alt="MW-MS70D">
-<img src="/characters/nwms70d-5.jpg" alt="MW-MS70D">
-<img src="/characters/nwms70d-6.jpg" alt="MW-MS70D">
+<img src="/characters/nwms70d-1.webp" alt="MW-MS70D">
+<img src="/characters/nwms70d-2.webp" alt="MW-MS70D">
+<img src="/characters/nwms70d-3.webp" alt="MW-MS70D">
+<img src="/characters/nwms70d-4.webp" alt="MW-MS70D">
+<img src="/characters/nwms70d-5.webp" alt="MW-MS70D">
+<img src="/characters/nwms70d-6.webp" alt="MW-MS70D">
 </details>
 
 <details> <summary>服饰参考</summary>
  <p><blockquote>希望服设中能融入MW-MS70D元素</blockquote> </p>
  <br>
  <p><blockquote>↓剪裁参考此图，下身修改为短裤</blockquote> </p>
-<img src="/characters/cloth-1.jpg" alt="服设参考">
+<img src="/characters/cloth-1.webp" alt="服设参考">
 </details>
