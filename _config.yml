@@ -35,8 +35,8 @@ menu:
     url: /pages/links.html
 #  - title: 留言
 #    url: /pages/chat.html
-  - title: 角色
-    url: /pages/character.html
+  - title: 世界
+    url: /pages/sekai.html
   - title: 关于
     url: /pages/about.html
 
